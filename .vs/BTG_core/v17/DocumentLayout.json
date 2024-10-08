@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faust\\source\\repos\\BTG_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\services\\core\\userproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\services\\core\\userproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\btg_core.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\btg_core.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\models\\dtos\\stateuserproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\models\\dtos\\stateuserproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\controllers\\userproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\controllers\\userproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\services\\core\\interfaces\\iuserproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\services\\core\\interfaces\\iuserproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\models\\invalidrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\models\\invalidrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|c:\\users\\faust\\source\\repos\\btg_core\\btg_core\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45231FCE-BB98-4152-90F5-4DB4C943CB4F}|BTG_core\\BTG_core.csproj|solutionrelative:btg_core\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Program.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Program.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Program.cs",
+              "RelativeToolTip": "BTG_core\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:04:43.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BTG_core.http",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\BTG_core.http",
+              "RelativeDocumentMoniker": "BTG_core\\BTG_core.http",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\BTG_core.http",
+              "RelativeToolTip": "BTG_core\\BTG_core.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T21:04:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Services\\Core\\UserProductService.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Services\\Core\\UserProductService.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Services\\Core\\UserProductService.cs",
+              "RelativeToolTip": "BTG_core\\Services\\Core\\UserProductService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwDUAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:43:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\InvalidRequestException.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Models\\InvalidRequestException.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\InvalidRequestException.cs",
+              "RelativeToolTip": "BTG_core\\Models\\InvalidRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:34:20.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\UserProductController.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Controllers\\UserProductController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\UserProductController.cs",
+              "RelativeToolTip": "BTG_core\\Controllers\\UserProductController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAlwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:38:25.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Startup.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Startup.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Startup.cs",
+              "RelativeToolTip": "BTG_core\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:37:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BTG_core\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:58:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BTG_core\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:33:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateUserProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\Dtos\\StateUserProductDto.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Models\\Dtos\\StateUserProductDto.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\Dtos\\StateUserProductDto.cs",
+              "RelativeToolTip": "BTG_core\\Models\\Dtos\\StateUserProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:53:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Services\\Core\\Interfaces\\IUserProductService.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Services\\Core\\Interfaces\\IUserProductService.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Services\\Core\\Interfaces\\IUserProductService.cs",
+              "RelativeToolTip": "BTG_core\\Services\\Core\\Interfaces\\IUserProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:09:39.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Models\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Models\\Users\\User.cs",
+              "RelativeToolTip": "BTG_core\\Models\\Users\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:39:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BTG_core\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Faust\\source\\repos\\BTG_core\\BTG_core\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "BTG_core\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:32:50.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
